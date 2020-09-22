@@ -1,0 +1,112 @@
+body{
+background-color:grey;
+background-image:url("Fashion.jpg");
+background-size: cover;
+position: absolute;
+background-repeat: no-repeat;
+}
+
+
+
+#container{
+	
+	width: 1500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+nav li {
+  float: left;
+  padding-left: 100px;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 75px;
+  text-decoration: none;
+  float: left;
+  font-size: 35px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #C5CED4;
+  
+}
+.button {
+  background-color:white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 400px;
+  margin-left: 48%;
+}
+#sewing{
+	float: right;
+	margin-top: 14%;
+	width: 430px;
+	
+}
+.aboutme{
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+
+}
+#fashionvideo{
+	margin-left: 65%;
+
+	width: 450px;
+	floa: right;
+}
+.abtextcolor{
+	color: white;
+	text-align: left;
+	float: left;
+	width: 450px;
+	display: inline-block;
+	margin-top: 22%;
+}
+.top{
+	height:700px;
+	width: 1400px;
+}
+.pictures{
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	position: center;
+	width: 1800px;
+	padding-top: 16px;
+	padding-left: 125px;
+}
+#bluecolor{
+	width: 350px;
+	padding-left: 100px;
+}
+#love{
+	width: 520px;
+	
+}
+#model{
+	width: 332px;
+	float: right;
+}
+#unnamed{
+	width: 420px;
+	padding-bottom: 10px;
+}
+#love1{
+	width: 600px;
+}
+#photo{
+	width: 600px;
+}
