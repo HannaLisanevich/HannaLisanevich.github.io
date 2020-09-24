@@ -2,7 +2,7 @@
 <html>
 <head>
 <title> Hello!-About</title>
-			<link rel="stylesheet" href="styles.css">
+			<link rel="stylesheet" href="Style.css">
 			 
 			</head>
 			
@@ -15,9 +15,9 @@
 						
 				<ul>		
 				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="projects.html">Collection</a></li>
-				<li><a href="contacts.html">Contacts</a> </li>
+				<li><a href="index.html">About</a></li>
+				<li><a href="collection.html">Collection</a></li>
+				<li><a href="index.html">Contacts</a> </li>
 				</ul>
 				</nav>
 				</header>
@@ -44,7 +44,7 @@
 				
 				</main>
 				<footer>
-				<p><button id="bttn"><a id="frthlink" href="contacts.html"> Want to get new collection? Tap here to contact us!</a></button></p>
+				<p> dfjh; djh </p>
 				</footer>
 			</div>
 		</body>

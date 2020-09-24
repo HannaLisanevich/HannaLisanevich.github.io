@@ -1,0 +1,151 @@
+body{
+background-color:grey;
+background-image:url("Fashion.jpg");
+background-size: cover;
+position: absolute;
+background-repeat: no-repeat;
+}
+
+header{
+		height: 150px;
+}
+
+#container{
+	
+	width: 1500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+nav li {
+  float: left;
+  padding-left: 100px;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 75px;
+  text-decoration: none;
+  float: left;
+  font-size: 35px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #C5CED4;
+  
+}
+.button {
+  background-color:white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 400px;
+  margin-left: 48%;
+}
+#lissana {
+	float: right;
+	margin-top: 14%;
+	width: 430px;
+	
+}
+.aboutme{
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+
+}
+#fashionvideo{
+	margin-left: 200px;
+
+	width: 450px;
+	margin-top:100px;
+	
+}
+.abtextcolor{
+	color: white;
+	text-align: left;
+	float: left;
+	width: 450px;
+	display: inline-block;
+	margin-top: 15px;
+	margin-left:50px;
+	font-size: 25px;background-color: gray; padding-left: 20px;
+}
+.top{
+	height:700px;
+	width: 1400px;
+}
+.pictures{
+	margin: 0 auto;
+
+	width: 1800px;
+	padding-top: 16px;
+	padding-left: 125px;
+}
+#bluecolor{
+	width: 350px;
+	height: 500px;
+	margin-left: 50px;
+}
+#love{
+	width: 450px;
+	margin-left: 50px;
+	
+}
+#model{
+	width: 400px;
+margin-left: 50px;
+
+}
+#unnamed{
+	width: 420px;
+	height: 500px;
+	margin-left: 50px;
+	
+}
+#love1{
+	width: 400px;
+	height: 500px;
+	margin-left: 50px;
+	
+}
+#photo{
+	width: 500px;
+	height: 500px;
+	margin-left: 50px;
+
+	
+}
+
+	
+}
+.pictures {padding: 500px; margin: auto;}
+.column1 {display: flex;
+flex-direction: row;
+margin-bottom: 30px;}
+.column2 {display: flex;
+flex-direction: row;}
+.column3 {display: none;}
+.title {margin-left: 300px; text-align: center; font-size: 50px;
+color: white;}
+ul {list-style-type: none;}
+#contactlist {text-align: center; font-size: 40px; background-color: white; margin-left: 300px;}
+#office {margin-left: 300px; text-align: center; font-size: 50px;
+color: white;}
+#maintitle
+#bttn {color: black; background-color: white; transition-duration: 0.3s; border: 2px solid black; font-size: 30px;}
+#bttn:hover {color: white; background-color: black; border: 2px solid white;}
+#frthlink {color: black;}
+#frthlink:hover {color: white;}
+#hometitle {color: white; font-size: 50px; margin-left: 100px;}
+#history {color: white; margin-left: 150px; font-size: 33px;}
+#pleasework {margin-top: 200px; margin-left: 50px;}
